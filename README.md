@@ -30,7 +30,7 @@ This smart contract introduces rule-based behavior beyond basic CRUD operations:
 
 * Network: Stellar Testnet
 * Contract ID:
-  `CD7XKTOYZKQ7KT3NW7S2GZGJFPAQ7J3GRH24FLBVDI6SAZZ72XFROYM`
+  `CAAI4LOQ7FOGALPAF3IZAODHKES3KOBJWASGBWKADZEVS4F36XB4NITX`
 
 ## ⚙️ Example Commands
 
@@ -60,7 +60,8 @@ stellar contract invoke --id CONTRACT_ID --source-account YOUR_ACCOUNT --network
 
 ## 📸 Screenshots
 
-(Add your CLI output screenshots here)
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/dc3d9896-d3ae-4226-8683-3103bd56e41b" />
+
 
 ## 📖 Use Case
 
